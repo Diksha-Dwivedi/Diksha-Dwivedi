@@ -26,6 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diksha-dwivedi&show_icons=true&locale=en&layout=compact" alt="diksha-dwivedi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diksha-dwivedi&show_icons=true&locale=en" alt="diksha-dwivedi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha-dwivedi&" alt="diksha-dwivedi" /></p>
